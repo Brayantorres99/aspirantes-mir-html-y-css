@@ -1,0 +1,10 @@
+.div {
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px blue;  
+
+    background: linear-gradient(#bd09b7, #6b4cf5);
+
+}
